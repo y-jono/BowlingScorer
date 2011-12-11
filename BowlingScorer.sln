@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingScorer", "BowlingScorer\BowlingScorer.csproj", "{AB4ECF3A-E33E-407C-8969-79D43C615FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingScorerTest", "BowlingScorerTest\BowlingScorerTest.csproj", "{01098095-D2FB-47E3-A8B8-E94C2801A681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB4ECF3A-E33E-407C-8969-79D43C615FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4ECF3A-E33E-407C-8969-79D43C615FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4ECF3A-E33E-407C-8969-79D43C615FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4ECF3A-E33E-407C-8969-79D43C615FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01098095-D2FB-47E3-A8B8-E94C2801A681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01098095-D2FB-47E3-A8B8-E94C2801A681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01098095-D2FB-47E3-A8B8-E94C2801A681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01098095-D2FB-47E3-A8B8-E94C2801A681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
